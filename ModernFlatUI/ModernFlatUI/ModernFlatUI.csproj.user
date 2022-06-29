@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="FormMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="usercontrolling\FormError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\Forms\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="usercontrolling\UserControlAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="usercontrolling\UserControlArticleMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="usercontrolling\UserControlDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="usercontrolling\UserControlError.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="usercontrolling\UserControlOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="usercontrolling\UserControlSettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

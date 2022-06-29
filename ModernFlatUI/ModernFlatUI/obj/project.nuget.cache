@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BcRn9IqXrkDHBb2wkuPjdv4QgySc+nz4XM6l1gllOsOQjDdumqkeRZHrangZezP1s7CD1iIw4et6oUxEYl6P2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oha\\source\\repos\\ModernFlatUI\\ModernFlatUI\\ModernFlatUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oha\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\oha\\.nuget\\packages\\fontawesome.sharp\\5.15.4\\fontawesome.sharp.5.15.4.nupkg.sha512",
+    "C:\\Users\\oha\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\oha\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512",
+    "C:\\Users\\oha\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
